@@ -1,0 +1,20 @@
+Command line project
+//Input from terminal
+// let input = process.argv[2]; // argv = argument vector
+// arg[0] ---> node arg[1]--->FO.js // path
+// //process.argv.slice(2)
+// console.log(input)
+
+// switch(){
+//     case 1:
+// }
+// tree : tree form view
+// organize : file organize
+// help : 
+
+// let command = process.argv[2]
+
+
+organize function
+
+test folder -- > organized files --> media,documents,app,archives
